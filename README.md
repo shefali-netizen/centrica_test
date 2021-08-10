@@ -1,2 +1,1 @@
-# centrica_test
-Assessment test for Centrica
+`my_web_crawler.py` contains all the code for scraping the web for first 5 links from a google search 'how to data engineering'. Dockerfile and requirements files are additionally required to satisfy requirements for containerization.
